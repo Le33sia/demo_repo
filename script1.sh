@@ -1,2 +1,3 @@
 #!/bin/bash
-Here is going to be bash script
+sudo apt update
+sudo apt dist-upgrade
